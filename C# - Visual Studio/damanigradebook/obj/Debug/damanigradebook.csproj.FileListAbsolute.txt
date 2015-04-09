@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\damanigradebook\bin\Debug\damanigradebook.exe.config
+F:\C# - Visual Studio\damanigradebook\bin\Debug\damanigradebook.exe
+F:\C# - Visual Studio\damanigradebook\bin\Debug\damanigradebook.pdb
+F:\C# - Visual Studio\damanigradebook\obj\Debug\damanigradebook.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\damanigradebook\obj\Debug\damanigradebook.exe
+F:\C# - Visual Studio\damanigradebook\obj\Debug\damanigradebook.pdb

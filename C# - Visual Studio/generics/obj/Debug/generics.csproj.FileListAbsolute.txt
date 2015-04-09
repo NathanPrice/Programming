@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\generics\bin\Debug\generics.exe.config
+F:\C# - Visual Studio\generics\obj\Debug\generics.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\generics\bin\Debug\generics.exe
+F:\C# - Visual Studio\generics\bin\Debug\generics.pdb
+F:\C# - Visual Studio\generics\obj\Debug\generics.exe
+F:\C# - Visual Studio\generics\obj\Debug\generics.pdb

@@ -1,0 +1,12 @@
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+E:\Projects\BegVCSharp\Projects\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+F:\C# - Visual Studio\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+F:\C# - Visual Studio\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+F:\C# - Visual Studio\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
+F:\C# - Visual Studio\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+F:\C# - Visual Studio\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb

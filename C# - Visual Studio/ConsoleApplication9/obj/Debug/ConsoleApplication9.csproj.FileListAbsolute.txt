@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+E:\C# - Visual Studio\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+E:\C# - Visual Studio\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+E:\C# - Visual Studio\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+E:\C# - Visual Studio\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<!-- Internet Explorer Compatibility -->
+
+<!--[if lte IE 6]><html class="preIE7 preIE8 preIE9"><![endif]-->
+<!--[if IE 7]><html class="preIE8 preIE9"><![endif]-->
+<!--[if IE 8]><html class="preIE9"><![endif]-->
+<!--[if gte IE 9]><!--><html><!--<![endif]-->
+
+ <head>
+ 
+	<meta charset="UTF-8"> <!-- Universal character encoding -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <!-- More Internet Explorer Compatibility -->
+	  
+	<title>Inventory</title> <!-- Title of the tab you're on -->
+
+	<link rel='stylesheet' href='//fonts.googleapis.com/css?family=font1|font2|etc' type='text/css'>
+	<link rel="stylesheet" href="style.css" type="text/css"> <!-- Link to your CSS File -->
+	<link rel="stylesheet" href="calendar/css/pikaday.css">
+    <link rel="stylesheet" href="calendar/css/site.css">
+
+ </head>
+ 
+ <body>
+		
+		<!-- This div surrounds the entire website -->
+		<div id="container">
+			
+			<!-- This div controls the body content -->
+			<div id="body_content"> 
+			
+			<h1 id="header">Inventory</h1>
+				<input id="submitBtn" type="submit" value="Submit" onclick="fillTable();"/>
+				
+				<fieldset id="inventory">
+					<table id ="tableItems" border="1" cellpadding="3" cellspacing="3">
+					
+						<tr>
+							<td>Program / Dept</td>
+							<label for="textbox1">
+							<input type="text" id="textbox1" name="program" />
+							
+							<td>Inventory Type</td>
+							<label for="textbox2">
+							<input type="text" id="textbox2" name="inventory" />
+							
+							<td>Vendor</td>
+							<label for="textbox3">
+							<input type="text" id="textbox3" name="vendor" />
+							
+							<td>Brand</td>
+							<label for="textbox4">
+							<input type="text" id="textbox4" name="brand" />
+							
+							<td>Model #</td>
+							<label for="textbox5">
+							<input type="text" id="textbox5" name="model" />
+							
+							<td>Serial #</td>
+							<label for="textbox6">
+							<input type="text" id="textbox6" name="serial" />
+							
+							<td>General Description</td>
+							<label for="textbox7">
+							<input type="text" id="textbox7" name="genral" />
+							
+							<td>Qty</td>
+							<label for="textbox8">
+							<input type="text" id="textbox8" name="qty" />
+							
+							<td>Unit Cost</td>
+							<label for="textbox9">
+							<input type="text" id="textbox9" name="unit" />
+							
+							<td>Total</td>
+							<label for="textbox10">
+							<input type="text" id="textbox10" name="total" />
+							
+							<td>PO#</td>
+							<label for="textbox11">
+							<input type="text" id="textbox11" name="pnum" />
+							
+							<td>PO Date</td>
+							<label for="datepicker">
+							<input type="text" id="datepicker">						
+							
+						</tr>
+						
+						
+					</table>
+
+				</fieldset>
+			</div>
+			
+		
+		</div>
+	<script src="myScript.js"></script>
+	<script src="calendar/pikaday.js"></script>
+    <script>
+
+    var picker = new Pikaday(
+    {
+        field: document.getElementById('datepicker'),
+        firstDay: 1,
+        minDate: new Date('2000-01-01'),
+        maxDate: new Date('2020-12-31'),
+        yearRange: [2000,2020]
+    });
+
+    </script>
+</body>
+ 
+</html>

@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\dict_stuff\bin\Debug\dict_stuff.exe.config
+E:\C# - Visual Studio\dict_stuff\bin\Debug\dict_stuff.exe
+E:\C# - Visual Studio\dict_stuff\bin\Debug\dict_stuff.pdb
+E:\C# - Visual Studio\dict_stuff\obj\Debug\dict_stuff.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\dict_stuff\obj\Debug\dict_stuff.exe
+E:\C# - Visual Studio\dict_stuff\obj\Debug\dict_stuff.pdb

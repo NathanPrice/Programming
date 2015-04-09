@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\testproj\bin\Debug\testproj.exe.config
+F:\C# - Visual Studio\testproj\obj\Debug\testproj.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\testproj\bin\Debug\testproj.exe
+F:\C# - Visual Studio\testproj\bin\Debug\testproj.pdb
+F:\C# - Visual Studio\testproj\obj\Debug\testproj.exe
+F:\C# - Visual Studio\testproj\obj\Debug\testproj.pdb

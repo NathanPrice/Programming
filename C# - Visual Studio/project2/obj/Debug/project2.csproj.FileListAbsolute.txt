@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\project2\bin\Debug\project2.exe.config
+E:\C# - Visual Studio\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\project2\bin\Debug\project2.exe
+E:\C# - Visual Studio\project2\bin\Debug\project2.pdb
+E:\C# - Visual Studio\project2\obj\Debug\project2.exe
+E:\C# - Visual Studio\project2\obj\Debug\project2.pdb

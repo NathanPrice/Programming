@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\test_project\bin\Debug\test_project.exe.config
+E:\C# - Visual Studio\test_project\bin\Debug\test_project.exe
+E:\C# - Visual Studio\test_project\bin\Debug\test_project.pdb
+E:\C# - Visual Studio\test_project\obj\Debug\test_project.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\test_project\obj\Debug\test_project.exe
+E:\C# - Visual Studio\test_project\obj\Debug\test_project.pdb

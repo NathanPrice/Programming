@@ -1,0 +1,165 @@
+html nav ul li
+{
+	border: 2px solid;
+	border-radius: 25px;
+	background-color: black;
+	position: relative;
+	top: -15px;
+	float: left;
+    width: 19%;
+}
+
+html body ul
+{
+	background-color: black;
+}
+
+body b
+{
+	text-align: center;
+}
+
+
+
+footer
+{
+	position: relative;
+	
+	text-align: center;
+}
+
+ul
+{
+	list-style: none;
+}
+
+nav
+{
+	background-color: black;
+	margin: 0 auto;
+	
+}
+
+nav ul li
+{
+	list-style-type: none;
+	width: 150px;
+	float: left;
+}
+
+ol
+{
+	list-style: none;
+	position: relative;
+	top: -5px;
+	right: -135px;
+	text-align: center;
+
+}
+
+.games
+{
+	border: 2px solid;
+	border-radius: 25px;
+	position: relative;
+	padding: 30px 120px 45px 25px;
+	width: 22%;
+	height: 68%;
+	background-color: #5C5CEF;
+	text-align: center;
+}
+
+.game_description
+{
+	border: 2px solid;
+	border-radius: 25px;
+	position: relative;
+	margin: 0 auto;
+	padding: 30px 150px 45px 25px;	
+	width:58%;
+	height: 68%;
+	top: -930px;
+	left: 250px;
+	float: right;
+	background-color: #5C5CEF;
+}
+
+.game_description h1
+{
+	text-align: center;
+}
+
+.game_description p
+{
+	position: relative;
+	left: 110px;
+	top: -40px;
+}
+
+.game_names
+{
+	position: relative;
+	left: 60px;
+	top: -30px;
+}
+#header{
+ width: 80%;
+ height: 20%;
+ margin: 0 auto;
+
+}
+.main
+{
+	width: 80%;
+	height: 70%;
+	margin: 0 auto;
+	border: 3px solid;
+	border-radius: 25px;
+	position: relative;
+	padding: 160px 300px 45px 65px;
+	top: 50px;
+	background-color: #00CC00;
+
+}
+
+.nav
+{
+	margin: 0 auto;
+}
+
+
+.p_center
+{
+	text-align: center;
+	position: relative;
+	left: 160px;
+}
+
+#head
+{
+	text-align: center;
+	text-shadow: 4px 3px 2px rgba(0, 149, 150, 1);
+}
+
+a:link
+{
+	color: blue;
+}
+
+a:visited
+{
+	color: orange;
+}
+
+a:hover
+{
+	color: red;
+}
+
+a:active
+{
+	color: red;
+}
+
+
+  

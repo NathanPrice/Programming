@@ -1,0 +1,53 @@
+Short Quiz 1
+----------------
+1. The window object represents the web browser window.
+2. The DOM refers to the Document Object Model. It's constructed of a tree of objects in which everything on a particular web page is represented and can be easily accessed. 
+3. The window object is the web browser window whereas the document object represents the web page displayed in a browser
+
+Short Quiz 2
+----------------
+1. var logo = document.getElementById("logoImage");
+2. var firstPriority = document.getElementsByTagName("li")[0];
+3. var language = querySelector("html.lang");
+4. querySelector("html.lang") = language;
+
+Short Quiz 3
+----------------
+1. document.createElement("footer");
+2. Either appendChild() or cloneNode(). Append child exists independently from the DOM Tree whereas Clone node 
+3. Clone node will be a new node part of the dom tree whereas append child wont be
+
+Short Quiz 4
+----------------
+1. window.open();
+2. They will most likely forget that the new window is opened
+3. Assign the window.open() method to a variable
+
+Short Quiz 5
+----------------
+1. History.back() and History.go(-1) 
+2. It will refresh the page that you're currently on
+3. The size of the user's display
+
+Review Questions
+--------------------
+1. D
+2. D
+3. A
+4. B
+5. B
+6. A
+7. D 
+8. A
+9. C
+10. B 
+11. A
+12. B
+13. B
+14. C
+15. B
+16. The 6 main objects in BOM are Window, History, Location, Navigator, Screen, and Document. Window is the Global Object / parent of the 5 other nodes and those 5 nodes are siblings of one another with Window being the parent.
+17. document.getElementById("logoImage"); and document.getElementsByTagName("img")[0];
+18. window.open("HDescription.htm", "width=400px,height=300px");
+19. The difference between setTimeout() and setInterval() is that setTimeout() is used to execute code once after a specific amount of time has passed whereas setInterval() is used when you want to repeatedly execute the same code after being called only once. You'd want to use the first when you want to have the user look at pictures rather than click through them but you'd use the latter for the opposite situation.
+20. You center a window with window.open() by using the equation ((screen.width - propertyWidth) / 2).

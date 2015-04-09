@@ -1,0 +1,46 @@
+Short Quiz 1
+---------------
+1. An array is different from a standard variable in that an array can hold a multitude of different values
+2. You declare an empty variable with by just having the brackets and nothing else. EX: var myArray = [];
+3. You can access an individual element in an array by specifying it's number starting from 0
+4. You use the .length property to determine the number of elements in an array
+5. By opening up the console, typing up the array name along with the number, and putting the .value property on the end of it
+
+Short Quiz 2
+---------------
+1. A counter's role is to provide a way to exit a loop and keep track of the loop's progress
+2. A while loop checks to see if the condition is not true before running whereas a do while loop runs the code at least once before checking to see if the condition is not true.
+3. That would be a for loop
+4. By using the continue statement
+
+Short Quiz 3
+---------------
+1. It won't execute the code.
+2. You can still execute some code if your if statement returns a falsy value.
+3. Because sometimes you need to make multiple decisions based on a certain scenario
+4. You specify possible values in a switch statement by typing in "case" followed by the value ending with an ":"
+5. You should include a break statement at the end of each case label. Because that way you can end each case without any unexpected errors
+
+Review Questions 1-20
+------------------------
+1. C
+2. C
+3. A
+4. C
+5. A
+6. B
+7. D
+8. A
+9. D
+10. B
+11. D
+12. A
+13. B
+14. B
+15. D
+16. An array can hold many different variables whereas a standard variable can only hold one value at a time
+17. document.write(projectTeam[3]); I determined the index value by counting from 0 since that's how computers count
+18. An infinite loop is caused because you set a condition but you haven't set up a way for the condition to be false. You can ensure not to cause an infinite loop by having a counter variable and have it increment each time the loop is run until it's greater than the value that you're comparing it too.
+19. An else if statement replaces just your standard if/else statements. It is more compact and can make your code easier to read
+20. Fallthrough means a situation in which execution of a switch statement does not stop after the statements for a particular case label are executed. You can prevent this by adding a break statement at the end of each of your case statements
+  

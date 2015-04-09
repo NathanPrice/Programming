@@ -1,0 +1,6 @@
+G:\C# - Visual Studio\userinput\bin\Debug\userinput.exe.config
+G:\C# - Visual Studio\userinput\obj\Debug\userinput.csprojResolveAssemblyReference.cache
+G:\C# - Visual Studio\userinput\bin\Debug\userinput.exe
+G:\C# - Visual Studio\userinput\bin\Debug\userinput.pdb
+G:\C# - Visual Studio\userinput\obj\Debug\userinput.exe
+G:\C# - Visual Studio\userinput\obj\Debug\userinput.pdb

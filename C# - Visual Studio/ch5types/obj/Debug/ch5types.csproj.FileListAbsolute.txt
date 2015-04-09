@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\ch5types\bin\Debug\ch5types.exe.config
+E:\C# - Visual Studio\ch5types\bin\Debug\ch5types.exe
+E:\C# - Visual Studio\ch5types\bin\Debug\ch5types.pdb
+E:\C# - Visual Studio\ch5types\obj\Debug\ch5types.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\ch5types\obj\Debug\ch5types.exe
+E:\C# - Visual Studio\ch5types\obj\Debug\ch5types.pdb

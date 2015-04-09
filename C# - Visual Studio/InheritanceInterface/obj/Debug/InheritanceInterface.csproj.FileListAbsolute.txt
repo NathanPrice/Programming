@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\InheritanceInterface\bin\Debug\InheritanceInterface.exe.config
+F:\C# - Visual Studio\InheritanceInterface\bin\Debug\InheritanceInterface.exe
+F:\C# - Visual Studio\InheritanceInterface\bin\Debug\InheritanceInterface.pdb
+F:\C# - Visual Studio\InheritanceInterface\obj\Debug\InheritanceInterface.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\InheritanceInterface\obj\Debug\InheritanceInterface.exe
+F:\C# - Visual Studio\InheritanceInterface\obj\Debug\InheritanceInterface.pdb

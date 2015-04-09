@@ -1,0 +1,6 @@
+E:\C# - Visual Studio\phonebook_struct\bin\Debug\phonebook_struct.exe.config
+E:\C# - Visual Studio\phonebook_struct\obj\Debug\phonebook_struct.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\phonebook_struct\bin\Debug\phonebook_struct.exe
+E:\C# - Visual Studio\phonebook_struct\bin\Debug\phonebook_struct.pdb
+E:\C# - Visual Studio\phonebook_struct\obj\Debug\phonebook_struct.exe
+E:\C# - Visual Studio\phonebook_struct\obj\Debug\phonebook_struct.pdb

@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\TxtAdventure\bin\Debug\TxtAdventure.exe.config
+F:\C# - Visual Studio\TxtAdventure\bin\Debug\TxtAdventure.exe
+F:\C# - Visual Studio\TxtAdventure\bin\Debug\TxtAdventure.pdb
+F:\C# - Visual Studio\TxtAdventure\obj\Debug\TxtAdventure.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\TxtAdventure\obj\Debug\TxtAdventure.exe
+F:\C# - Visual Studio\TxtAdventure\obj\Debug\TxtAdventure.pdb

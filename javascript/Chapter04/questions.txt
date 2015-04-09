@@ -1,0 +1,53 @@
+Short Quiz 1
+----------------
+1. Syntax errors are errors that occur when an interpreter fails to recognize code (spelling errors and such), Runtime errors are errors that occur when a javascript interpreter encounters a problem while a program is executing, Logic Errors are a flaw in a program's design that prevents the program from running as you anticipate.
+2. You can find error messages in the browser's console.
+3. Because the console doesn't update as soon as you save the file. You must reload it for it to see if anything went wrong.
+
+Short Quiz 2
+----------------
+1. window.alert(); or console.log();
+2. console.log("itemTotal: " + itemTotal);
+3. To see what parts of your code aren't working as expected.
+
+Short Quiz 3
+----------------
+1. A breakpoint is a point in your program that you set that causes your program execution to be paused when it reaches the statement. CTRL-B.
+2. Stepping in executes an individual line of code and then pauses until you instruct the debugger to continue, Stepping Over allows you to skip function calls; the program still executes each function that you step over but it appears in the debugger as if a single statement executes, Stepping out executes all remaining code in the current function. 
+3. A call stack is an ordered list containing all functions methods or event handlers that have been called but have not yet finished processing.
+
+Short Quiz 4
+----------------
+1. It's necessary when you need to anticipate and handle potential problems. EX: A user inputs a string instead of a number.
+2. You can use the throw statement
+3. The variable within the () in the catch statement.
+
+Short Quiz 5
+----------------
+1. Code editors can help identify errors with syntax highlighting.
+2. var cost = 75; console.log(cost * 1.2);
+3. Coding in strict mode can help you write better code because you're required to write more stringent syntax for some statements.
+
+
+Review Questions 1-20
+-----------------------
+1. B
+2. C
+3. D
+4. B
+5. D
+6. A
+7. C
+8. A
+9. A
+10. B
+11. B
+12. D
+13. C
+14. D
+15. D
+16. window.alert is useful when you want to see how a value that isn't working is being changed throughout the execution of your program. console.log is useful when you want to see the end result of your values at once.
+17. You comment out code that isn't working and you uncomment it line by line until you find the statement that isn't working properly.
+18. Syntax highlighting and the debugger statement.
+19. You should use exception handling to prevent your program from not working / crashing and to prevent the user, for example, from entering in a string instead of a number.
+20. Strict mode is a javascript processing mode in which some features are removed from the language and other features require more stringent syntax. You implement is my typing in "use strict" to wherever you want to use strict mode. It's useful in reducing errors because it requires you to be more thoughtful in the coding process.

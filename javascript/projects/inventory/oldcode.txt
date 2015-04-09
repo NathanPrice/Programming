@@ -1,0 +1,15 @@
+var tableValues = new Array("");
+
+// Fills in table rows
+function fillTable() {
+	for (var i = 1; i <= 12; i++) {
+		var cell_item = "cell" + i;
+		var textbox = "textbox" + i;
+		var table = document.getElementById("tableItems");
+		
+		
+		tableValues[i] = document.getElementById(textbox).value;
+		//document.getElementById(cell_item).innerHTML = tableValues[i];
+		textbox.value = "";
+	}
+}

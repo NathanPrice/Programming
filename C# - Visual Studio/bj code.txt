@@ -1,0 +1,122 @@
+/*
+
+ ************************************************************************
+ * Author: Nathan Price                   Instructor: Mr. Damani        *
+ * Created: 10/27/14                      Last Modified: 10/30/14       *
+ * Copyleft: 2014                                                       *
+ *                                                                      *
+ * Description: 
+ ************************************************************************
+ 
+*/
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace blackjack
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string logo = @"
+    ¦¦¦¦¦¦+ ¦¦+      ¦¦¦¦¦+  ¦¦¦¦¦¦+¦¦+  ¦¦+     ¦¦+ ¦¦¦¦¦+  ¦¦¦¦¦¦+¦¦+  ¦¦+
+    ¦¦+--¦¦+¦¦¦     ¦¦+--¦¦+¦¦+----+¦¦¦ ¦¦++     ¦¦¦¦¦+--¦¦+¦¦+----+¦¦¦ ¦¦++
+    ¦¦¦¦¦¦++¦¦¦     ¦¦¦¦¦¦¦¦¦¦¦     ¦¦¦¦¦++      ¦¦¦¦¦¦¦¦¦¦¦¦¦¦     ¦¦¦¦¦++ 
+    ¦¦+--¦¦+¦¦¦     ¦¦+--¦¦¦¦¦¦     ¦¦+-¦¦+ ¦¦   ¦¦¦¦¦+--¦¦¦¦¦¦     ¦¦+-¦¦+ 
+    ¦¦¦¦¦¦++¦¦¦¦¦¦¦+¦¦¦  ¦¦¦+¦¦¦¦¦¦+¦¦¦  ¦¦++¦¦¦¦¦++¦¦¦  ¦¦¦+¦¦¦¦¦¦+¦¦¦  ¦¦+
+    +-----+ +------++-+  +-+ +-----++-+  +-+ +----+ +-+  +-+ +-----++-+  +-+
+                                                                               ";
+            
+
+            
+
+            // Variables
+            string[] suite_list = {"Clubs", "Hearts", "Spades", "Diamonds"};
+            string suite = null, suite2 = null, face = null;
+            Random r = new Random();
+            string answer = "yes";
+            int bust = 0, num = 0, num2 = 0;
+
+            do
+            {
+                // Random Generators
+                int deck = (r.Next(1, 52));
+                int clubs_comp = r.Next(2, 10);
+                int hearts_comp = r.Next(2, 10);
+                int spades_comp = r.Next(2, 10);
+                int diamonds_comp = r.Next(2, 10);
+                int clubs_play = r.Next(2, 10);
+                int hearts_play = r.Next(2, 10);
+                int spades_play = r.Next(2, 10);
+                int diamonds_play = r.Next(2, 10);
+
+                Console.Clear();
+                Console.WriteLine(logo);
+
+                //Computer
+                // Determines Suite and Card
+                if (deck > 1 && deck < 13)
+                {
+                    suite = suite_list[0];
+                    num = clubs_comp;
+                }
+                else if (deck > 14 && deck < 26)
+                {
+                    suite = suite_list[1];
+                    num = hearts_comp;
+                }
+                else if (deck > 27 && deck < 39)
+                {
+                    suite = suite_list[2];
+                    num = spades_comp;
+                }
+                else
+                {
+                    suite = suite_list[3];
+                    num = diamonds_comp;
+                }
+
+                // Player
+                if (deck > 1 && deck < 13)
+                {
+                    suite2 = suite_list[3];
+                    num2 = clubs_play;
+                }
+                else if (deck > 14 && deck < 26)
+                {
+                    suite2 = suite_list[2];
+                    num2 = hearts_play;
+                }
+                else if (deck > 27 && deck < 39)
+                {
+                    suite2 = suite_list[1];
+                    num2 = spades_play;
+                }
+                else
+                {
+                    suite2 = suite_list[0];
+                    num2 = diamonds_play;
+                }
+
+                Console.WriteLine("Computer | Showing {0} of {1}", num, suite);
+                Console.WriteLine("Player   | Showing {0} of {1}", num2, suite2);
+              
+                answer = Console.ReadLine();
+
+                if (answer == "no")
+                {
+                    break;
+                }
+            }
+            while (answer == "yes" || bust <= 21);
+
+            Console.ReadKey();
+        }
+
+       
+    }
+}

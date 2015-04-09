@@ -1,0 +1,5 @@
+E:\C# - Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\C# - Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\C# - Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\C# - Visual Studio\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\C# - Visual Studio\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

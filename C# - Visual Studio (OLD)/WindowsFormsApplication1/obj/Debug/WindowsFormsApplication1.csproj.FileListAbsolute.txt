@@ -1,0 +1,5 @@
+E:\C# - Visual Studio\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\C# - Visual Studio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\C# - Visual Studio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\C# - Visual Studio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C# - Visual Studio\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+E:\C# - Visual Studio\delegate_test\bin\Debug\delegate_test.exe.config

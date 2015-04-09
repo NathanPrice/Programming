@@ -1,0 +1,1 @@
+G:\C# - Visual Studio\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config

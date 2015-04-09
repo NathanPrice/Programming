@@ -1,0 +1,5 @@
+E:\C# - Visual Studio\japanese\bin\Debug\japanese.exe.config
+E:\C# - Visual Studio\japanese\bin\Debug\japanese.exe
+E:\C# - Visual Studio\japanese\bin\Debug\japanese.pdb
+E:\C# - Visual Studio\japanese\obj\Debug\japanese.exe
+E:\C# - Visual Studio\japanese\obj\Debug\japanese.pdb

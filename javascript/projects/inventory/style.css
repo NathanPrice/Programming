@@ -1,0 +1,86 @@
+table {
+	background-color: #FFFFCC;
+	border-collapse: collapse;
+	border:1px solid #FFCC00; 
+	color:#000000; 
+	width:100%
+}
+
+#header  {
+	text-align: center;
+}
+
+#submitBtn {
+	position: relative;
+	left: 48%;
+}
+
+#programinput {
+	width: 230px;
+}
+
+#inventoryinput {
+	position: relative;
+	left: 10px;
+	width: 225px;
+}
+
+#vendorinput {
+	position: relative;
+	left: 22px;
+	width: 100px;
+}
+
+#brandinput {
+	position: relative;
+	left: 37px;
+	width: 90px;
+}
+
+#modelinput {
+	position: relative;
+	left: 47px;
+	width: 120px;
+}
+
+#serialinput {
+	position: relative;
+	left: 55px;
+	width: 110px;
+}
+
+#generalinput {
+	position: relative;
+	left: 70px;
+	width: 305px;
+}
+
+#qtyinput {
+	position: relative;
+	left: 72px;
+	width: 60px;
+}
+
+#unitinput {
+	position: relative;
+	left: 77px;
+	width: 145px;
+}
+
+#totalinput {
+	position: relative;
+	left: 82px;
+	width: 80px;
+}
+
+#pnuminput {
+	position: relative;
+	left: 87px;
+	width: 67px;
+}
+
+#pdateinput {
+	position: relative;
+	left: 92px;
+	width: 130px;
+}

@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\try_catch\bin\Debug\try_catch.exe.config
+F:\C# - Visual Studio\try_catch\obj\Debug\try_catch.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\try_catch\bin\Debug\try_catch.exe
+F:\C# - Visual Studio\try_catch\bin\Debug\try_catch.pdb
+F:\C# - Visual Studio\try_catch\obj\Debug\try_catch.exe
+F:\C# - Visual Studio\try_catch\obj\Debug\try_catch.pdb

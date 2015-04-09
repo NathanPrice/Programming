@@ -1,0 +1,47 @@
+Short Quiz 1
+----------------
+1. To add functionality to forms to make them easier to use and to validate the data entered.
+2. You don't need to switch between using one syntax for referencing form objects and non form objects and it makes your code more flexible.
+
+Short Quiz 2
+----------------
+1. Check Box. Because that way you wouldn't have to deal with spelling errors
+2. By adding a select element. Select Value
+
+Short Quiz 3
+----------------
+1. max, which specifies the controls the maximum numerical value and required, which indicates that the control must have a value
+2. number, which automatically reject nonnumueric content and email, which only accepts email address 
+3. The constraint validation API is the set of properties and methods that enables developers to customize aspects of the way broswers present broswer based validation feedback
+4. It can cause friction
+
+
+Short Quiz 4
+----------------
+1. The submit event
+2. preventDefault();
+3. You can use the value property
+4. isNaN();
+
+Review Questions
+-------------------
+1. A
+2. C
+3. A 
+4. D
+5. D
+6. C
+7. A
+8. C
+9. D
+10. B
+11. B
+12. C
+13. A
+14. B
+15. D
+16. By storing it.   
+17. To remove broswer based validation so you can write your own custom validation
+18. By checking the values
+19. By using .checked on the button you want to make sure is checked
+20. You can use the isNaN() function to determine if a user's entry is actually a number.

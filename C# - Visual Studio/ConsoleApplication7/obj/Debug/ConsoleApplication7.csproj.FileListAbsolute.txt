@@ -1,0 +1,6 @@
+G:\C# - Visual Studio\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+G:\C# - Visual Studio\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+G:\C# - Visual Studio\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+G:\C# - Visual Studio\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+G:\C# - Visual Studio\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+G:\C# - Visual Studio\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

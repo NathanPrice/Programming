@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\Ch09Ex01\bin\Debug\Ch09Ex01.exe.config
+F:\C# - Visual Studio\Ch09Ex01\obj\Debug\Ch09Ex01.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\Ch09Ex01\bin\Debug\Ch09Ex01.exe
+F:\C# - Visual Studio\Ch09Ex01\bin\Debug\Ch09Ex01.pdb
+F:\C# - Visual Studio\Ch09Ex01\obj\Debug\Ch09Ex01.exe
+F:\C# - Visual Studio\Ch09Ex01\obj\Debug\Ch09Ex01.pdb

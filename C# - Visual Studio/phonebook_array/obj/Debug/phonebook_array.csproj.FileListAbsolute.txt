@@ -1,0 +1,5 @@
+E:\C# - Visual Studio\phonebook_array\bin\Debug\phonebook_array.exe.config
+E:\C# - Visual Studio\phonebook_array\bin\Debug\phonebook_array.exe
+E:\C# - Visual Studio\phonebook_array\bin\Debug\phonebook_array.pdb
+E:\C# - Visual Studio\phonebook_array\obj\Debug\phonebook_array.exe
+E:\C# - Visual Studio\phonebook_array\obj\Debug\phonebook_array.pdb

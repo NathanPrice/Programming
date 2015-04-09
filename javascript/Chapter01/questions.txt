@@ -1,0 +1,53 @@
+Short Quiz 1
+------------------
+1. Hypertext Linking. It allowed users to open web pages quickly
+2. W3C stands for World Wide Web Consortium. It oversees the development of web technology standards.
+3. Tags. They specify how data in a document is treated by a web browser.
+
+Short Quiz 2
+------------------
+1. A client is what presents the interface of a website to the user. The server is usually some sort of database from which a client requests information.
+2. It is the processing tier.
+3. EMCAScript is an international, standardized version of JavaScript. To have a universal JavaScript standard to work across all browsers.
+
+Short Quiz 3
+------------------
+1. It goes inside the <script> tags.
+2. So that way the interpreter knows when each JavaScript line / statement ends.
+3. For single line comments you put a // at the start of your comment. For multiline comments you use /* */
+
+Short Quiz 4
+------------------
+1. An identifier is the name you give a variable. It's limits are: They must start with an uppercase or lowercase letter $ or _, You  cannot have numbers be in the first character slot, cannot include spaces, and you cannot use reserved words.
+2. Declaring a variable is when you use the var keyword to make the variable. Initializing it means that you assign some sort of value to it.
+3. To change the value of a variable, you use a statement that includes the variable's name followed by an equal sign followed by the new value.
+4. Event Handlers execute any code that responds to a specific event.
+
+Short Quiz 5
+------------------
+1. Because that way you you can allow the browser to render all the simple HTML content immediately.
+2. You include the src attribute in the script tag along with where the file is. EX: <script src="scripts/myfile.js"></script>
+
+Review Questions 1-20
+------------------------
+1. C
+2. B
+3. A 
+4. D
+5. B
+6. C 
+7. C
+8. D
+9. A
+10. B
+11. B
+12. D 
+13. B
+14. C
+15. B
+
+16. Web page design is the process of creating the look and feel of a Website, Web page authoring is the creation and assembly of the tags, attributes, and the data that make up a web page, and Web development is the backend programming (PHP, etc) of a website.
+17. Character data is a section of an HTML document that is not interpreted as markup and Parsed character data is a section of of an HTML document that is interpreted as markup. It determines whether or not you can insert HTML tags in your script.
+18. <script>document.write("// Copyright 2017"); document.write("/* Copyright 2017 */");</script>
+19. <script>var title = "Dr.";</script>
+20. A library is a JavaScript source file that contains especially useful generic scripts used on many different websites.

@@ -1,0 +1,52 @@
+Short Quiz 1
+----------------
+1. A named function is a function that has a name and can be called later in your code. A anonymous function doesn't have a name and can't be called as well as they only work in a single instance.
+2. Because you have to call it before you can use it. You execute it by typing in it's name followed by parenthesis and any parameters you have. EX: myFunc(12);
+3. Some alternatives are: Putting a function in, specifying the function as a property, or use addEventListener
+4. By opening the browser console.
+5. Because it can cause your code to get really confusing.
+
+Short Quiz 2
+----------------
+1. An integer is a whole number whereas a float number is a decimal number.
+2. A boolean can only be either True or False.
+3. An empty string is a string with just "".
+4. So that way two different strings can be read easier.
+
+Short Quiz 3
+----------------
+1. A binary operator works with two values and unary operator only works with one value
+2. It should concatenate them together
+3. A comparison operator compares two values. It returns either true or false.
+4. A falsy value is a comparison operation that is treated as the boolean value of false. They are: "", -0, 0, NaN, null, and undefined
+
+Short Quiz 4
+----------------
+1. Left to right
+2. 21. Because multiplication has a higher precedence than addition.
+
+Review Questions
+--------------------
+1. D
+2. B
+3. C
+4. C
+5. A
+6. C
+7. C
+8. B
+9. C
+10. D
+11. B
+12. C
+13. A
+14. C
+15. D
+16. function add(a, b) {
+	c = a + b;
+	return c;
+}
+17. A prefix operator is an operator that is placed before a variable name whereas a postfix operator is placed after. EX: Pre: ++x Post: a--
+18. The result is that it prints out the text green. I know this because since 5 is greater than 4 the shorthand if else statement prints out the first thing since that's what happens if the condition that is set is true.
+19. The result is 1. The operator being used is modulos which gets the remainder of an expression. Since 4 can only go into 5 one time and theirs only one remainder it prints 1 since modulos gets the remainder.
+20. A global variable can be used anywhere in your script whereas a local variable can only be used within the place you defined it such as a function. Not using the var keyword can affect the scope of your variables since it will make it global by default.

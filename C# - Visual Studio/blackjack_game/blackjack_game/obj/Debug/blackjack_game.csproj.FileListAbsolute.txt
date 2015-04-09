@@ -1,0 +1,12 @@
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\bin\Debug\blackjack_game.exe.config
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\obj\Debug\blackjack_game.csprojResolveAssemblyReference.cache
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\bin\Debug\blackjack_game.exe
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\bin\Debug\blackjack_game.pdb
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\obj\Debug\blackjack_game.exe
+c:\BegVSCSharp\Projects\blackjack_game\blackjack_game\obj\Debug\blackjack_game.pdb
+E:\C# - Visual Studio\blackjack_game\blackjack_game\bin\Debug\blackjack_game.exe.config
+E:\C# - Visual Studio\blackjack_game\blackjack_game\obj\Debug\blackjack_game.exe
+E:\C# - Visual Studio\blackjack_game\blackjack_game\obj\Debug\blackjack_game.pdb
+E:\C# - Visual Studio\blackjack_game\blackjack_game\bin\Debug\blackjack_game.exe
+E:\C# - Visual Studio\blackjack_game\blackjack_game\bin\Debug\blackjack_game.pdb
+E:\C# - Visual Studio\blackjack_game\blackjack_game\obj\Debug\blackjack_game.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\C# - Visual Studio\inventory_class\bin\Debug\inventory_class.exe.config
+F:\C# - Visual Studio\inventory_class\bin\Debug\inventory_class.exe
+F:\C# - Visual Studio\inventory_class\bin\Debug\inventory_class.pdb
+F:\C# - Visual Studio\inventory_class\obj\Debug\inventory_class.csprojResolveAssemblyReference.cache
+F:\C# - Visual Studio\inventory_class\obj\Debug\inventory_class.exe
+F:\C# - Visual Studio\inventory_class\obj\Debug\inventory_class.pdb

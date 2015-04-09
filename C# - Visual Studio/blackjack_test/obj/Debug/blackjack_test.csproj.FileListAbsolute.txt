@@ -1,0 +1,2 @@
+F:\C# - Visual Studio\blackjack_test\bin\Debug\blackjack_test.exe.config
+F:\C# - Visual Studio\blackjack_test\obj\Debug\blackjack_test.csprojResolveAssemblyReference.cache
